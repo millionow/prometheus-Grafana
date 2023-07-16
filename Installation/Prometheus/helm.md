@@ -21,6 +21,8 @@ This is required to access prometheus-server using your browser.
 
 =================================
 
+https://www.youtube.com/watch?v=vC7CG2ONjGM
+
 Add metrix server 
 
 kubectl apply -f https://github.com/kubernetes-sigs/metrics-server/releases/download/v0.4.3/components.yaml
